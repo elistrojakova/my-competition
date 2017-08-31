@@ -1,20 +1,39 @@
 
-.prvni {
-	text-align: center;
-	font-size: 80px;
-	background-image: 
+.shoe-lover-section {
+	background-color: #f2f2f2;
 	
 }
 
+.btn_btn-success_btn-lg {
+	border-color: #a2335c;
+	background-image: linear-gradient(to bottom,
+	#ffcce6,#f397b0);
+	    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+	color: black;
+		
+}
+
+.btn_btn-success_btn-lg:hover {
+	color: #b30059;
 }
 
 .third {
 		width: 100%
-		text-align: center;
-		
+		text-align: center;	
 }
 
 .nopadding {
    padding: 0 !important;
    margin: 0 !important;
+}
+
+.input-group {
+	margin-top: 20px;
+}
+
+.pics-section {
+	text-align: center;
 }
